@@ -1,0 +1,22 @@
+{
+    "version": "1.0",
+    "files_to_download": {
+        "Win64": [
+            "cream_api.ini",
+            "winhttp.dll"
+        ],
+        "Paks": [
+            "pakchunk99_UrXStackable_P.pak",
+            "pakchunk99_UrXVietnamese_P.pak"
+        ],
+        "Config": [
+            "GameUserSettings.ini",
+            "Input.ini"
+        ]
+    },
+    "files_to_remove": [
+        "old_mod.ini",
+        "deprecated.dll",
+        "obsolete_pak.pak"
+    ]
+}
