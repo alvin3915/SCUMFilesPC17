@@ -6,8 +6,10 @@
             "winhttp.dll"
         ],
         "Paks": [
+            "pakchunk99_UrXMiscellaneous_P.pak",
             "pakchunk99_UrXStackable_P.pak",
-            "pakchunk99_UrXVietnamese_P.pak"
+            "pakchunk99_UrXVietnamese_P.pak",
+            "pakchunk99_UrXWhiteLight_P.pak"
         ],
         "Config": [
             "GameUserSettings.ini",
