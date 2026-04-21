@@ -17,7 +17,7 @@
         ]
     },
     "files_to_remove": [
-            "pakchunk99_UrXWhiteLight_P.pak",
-            "pakchunk99_UrXMiscellaneous_P.pak"
+        "pakchunk99_UrXWhiteLight_P.pak",
+        "pakchunk99_UrXMiscellaneous_P.pak"
     ]
 }
