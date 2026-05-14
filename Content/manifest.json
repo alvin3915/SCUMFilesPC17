@@ -11,7 +11,6 @@
             "pakchunk99_UrXMaster_P.pak",
             "pakchunk99_UrXMorePlus_P.pak",
             "pakchunk99_UrXStackable_P.pak",
-            "pakchunk99_UrXVietnamese_P.pak",
             "pakchunk99_UrXWhiteLight_P.pak"
         ],
         "Config": [
@@ -20,5 +19,6 @@
         ]
     },
     "files_to_remove": [
+            "pakchunk99_UrXVietnamese_P.pak"
     ]
 }
