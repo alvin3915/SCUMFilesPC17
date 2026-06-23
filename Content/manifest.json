@@ -15,14 +15,17 @@
             "Engine.ini",
             "GameUserSettings.ini",
             "Input.ini"
+        ],
+        "Tools": [
+            "CrosshairX - Dark.exe"
         ]
     },
     "files_to_remove": [
-            "pakchunk99_UrXDirtiness_P.pak",
-            "pakchunk99_UrXMaster_P.pak",
-            "pakchunk99_UrXMorePlus_P.pak",
-            "pakchunk99_UrXStackable_P.pak",
-            "pakchunk99_UrXWhiteLight_P.pak",
-            "pakchunk99_UrXVietnamese_P.pak"
+        "pakchunk99_UrXDirtiness_P.pak",
+        "pakchunk99_UrXMaster_P.pak",
+        "pakchunk99_UrXMorePlus_P.pak",
+        "pakchunk99_UrXStackable_P.pak",
+        "pakchunk99_UrXWhiteLight_P.pak",
+        "pakchunk99_UrXVietnamese_P.pak"
     ]
 }
