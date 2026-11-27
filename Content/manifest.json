@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "1.0.1",
     "files_to_download": {
         "Win64": {
             "cream_api.ini": "sha256:969ee48fa4b327944681324d9a4d9556116f91310fc1b517c1985e8d3ea08b40",
