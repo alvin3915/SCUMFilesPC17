@@ -1,15 +1,15 @@
 {
     "version": "1.0",
     "files_to_download": {
-        "Win64": [
-            "cream_api.ini",
-            "winhttp.dll"
-        ],
-        "Paks": [
-            "pakchunk99_UrXVietnamese_P.pak",
-            "pakchunk99_UrXLight_P.pak",
-            "pakchunk99_UrXStacks_P.pak"
-        ]
+        "Win64": {
+            "cream_api.ini": "sha256:969ee48fa4b327944681324d9a4d9556116f91310fc1b517c1985e8d3ea08b40",
+            "winhttp.dll": "sha256:dc5df489f5cff9c5a7541742dac5aaf02219b80decbc373f6d34d2dbcefbe69b"
+        },
+        "Paks": {
+            "pakchunk99_UrXLight_P.pak": "sha256:2f1dfe8a0f20e29cfacfb20937f5f95c21d324625fe820537c3abb58f94b778e",
+            "pakchunk99_UrXStacks_P.pak": "sha256:0b774a4fe348ff21e2ea4a7f7ab3ddbf470d6281f10ddd4c814e2874b8447084",
+            "pakchunk99_UrXVietnamese_P.pak": "sha256:35c2161029a5c82f38589c51d393d71013b7610b89d2af55a3f1eb13c5b2fdc0"
+        }
     },
     "files_to_remove": []
 }
