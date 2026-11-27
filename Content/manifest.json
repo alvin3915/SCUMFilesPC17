@@ -9,8 +9,7 @@
             "pakchunk99_UrXVietnamese_P.pak",
             "pakchunk99_UrXLight_P.pak",
             "pakchunk99_UrXStacks_P.pak"
-        ],
+        ]
     },
-    "files_to_remove": [
-    ]
+    "files_to_remove": []
 }
