@@ -7,8 +7,8 @@
         },
         "Paks": {
             "pakchunk99_UrXLight_P.pak": "sha256:2f1dfe8a0f20e29cfacfb20937f5f95c21d324625fe820537c3abb58f94b778e",
-            "pakchunk99_UrXStacks_P.pak": "sha256:0b774a4fe348ff21e2ea4a7f7ab3ddbf470d6281f10ddd4c814e2874b8447084",
-            "pakchunk99_UrXVietnamese_P.pak": "sha256:35c2161029a5c82f38589c51d393d71013b7610b89d2af55a3f1eb13c5b2fdc0"
+            "pakchunk99_UrXStacks_P.pak": "sha256:6a1835262bf3dca15ee98f0466e0a5049d58ae5d8a7e21148819f5431b4dbd17",
+            "pakchunk99_UrXVietnamese_P.pak": "sha256:e0810b6c3f1d00b2eaa70870ce850649d1bfb45c0fb6f49d010625be4eb86b4b"
         }
     },
     "files_to_remove": []
